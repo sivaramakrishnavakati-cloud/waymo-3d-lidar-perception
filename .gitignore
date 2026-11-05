@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datasets
+data/waymo/Training/
+data/waymo/processed/multi_frame/
+*.tfrecord
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Temporary files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Ignore datasets
+data/
+
+# Ignore generated outputs by default
+outputs/*
+!outputs/screenshots/
+outputs/screenshots/*
+!outputs/screenshots/waymo_3d_bev_demo.png
+!outputs/Waymo_3D_LiDAR_Perception_Demo.mp4
+
+# Ignore VS Code screenshots
+ScreenCamera_*
+ScreenCapture_*
