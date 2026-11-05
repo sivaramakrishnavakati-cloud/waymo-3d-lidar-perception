@@ -8,13 +8,12 @@ This project focuses on 3D environmental perception using multi-frame LiDAR data
 
 ## Demo
 
-**Waymo 3D LiDAR Perception Demo**
+## 🎬 Project Demo
 
-### 3D LiDAR Visualization
+[![Waymo 3D LiDAR Perception Demo](https://img.youtube.com/vi/3SNZrspm05Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=3SNZrspm05Q)
 
-![Waymo 3D LiDAR Perception](outputs/screenshots/waymo_3d_bev_demo.png)
+**▶ Click the preview to watch the complete interactive 3D LiDAR and BEV demonstration.**
 
-[▶ Watch the Waymo 3D LiDAR Perception Demo](outputs/Waymo_3D_LiDAR_Perception_Demo.mp4)
 
 ## Key Features
 
